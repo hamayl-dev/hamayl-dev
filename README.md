@@ -4,12 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hamayl+Shah!;" />
 </h1>
 
-🎯 **Electrical Engineering Student | Data Science Enthusiast | Power BI Developer | Front-End Developer**
+<h3 align="center">🎯 **Electrical Engineering Student | Data Science Enthusiast | Power BI Developer | Front-End Developer**
 
 I'm passionate about building real-world projects in **Data Science**, **Web Development**, and **Electrical Engineering**.  
 I love solving problems, analyzing datasets, and creating dashboards and applications that provide real value.
 
-Email Me 👉 ✉️ **hamaylshah395@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **hamaylshah395@gmail.com** For Collaboration/Project or Anything Else. 😊😊</h3>
+
+<br/>
+
 # 💫 About Me:
 🛠️ I’m currently working on  <br>→ Data Science Projects, Machine Learning Models, and Power BI Dashboards  <br><br>🤝 I’m looking to collaborate on  <br>→ Data Analytics, ML Projects, Web Development, and Open-Source  <br><br>👐 I’m looking for help with  <br>→ Advanced Deep Learning, Cloud Deployments, and NLP Optimization  <br><br>🌱 I’m currently learning  <br>→ Next.js, AWS Cloud, Docker, and MLOps  <br><br>💬 Ask me about  <br>→ Python, Power BI, Machine Learning, Data Analysis, Front-End Development  <br><br>⚡ Fun fact  <br>→ I’m a Software Engineer who is also a Sports Journalist & Football Analyst ⚽😄<br>
 
